@@ -6,8 +6,8 @@
 
 <div>
   <a herf="https://github.com/Rafelrosod">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Rafelrosod&show_icons=true&theme=gruvbox">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafelrosod&layout=compact&theme=gruvbox">
+    <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Rafelrosod&show_icons=true&theme=gruvbox">
+    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafelrosod&layout=compact&theme=gruvbox">
 </div>
 
 <div style="display: inline_block"><br>
