@@ -1,7 +1,6 @@
 ## Olá, sejá Bem vindo😉
 
 -  📱 Desenvolvedor   Java.
-- 💻 Cursando Análise e Desenvolvimento de Sistemas
 - 📚 Projetos, Estudos entre outros.
 
 <div>
