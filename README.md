@@ -1,6 +1,6 @@
 ## Olá, sejá Bem vindo😉
 
--  📱 Desenvolvedor   Java.
+-  📱 Desenvolvedor   FullStack.
 - 📚 Projetos, Estudos entre outros.
 
 <div>
